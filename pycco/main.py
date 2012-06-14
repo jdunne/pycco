@@ -303,6 +303,8 @@ languages = {
         "multistart": "--[[", "multiend": "--]]"},
 
     ".erl": { "name": "erlang", "symbol": "%%" },
+    
+    ".proto": { "name": "protobuf", "symbol": "//" },
 }
 
 # Build out the appropriate matchers and delimiters for each language.
